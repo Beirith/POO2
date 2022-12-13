@@ -1,13 +1,10 @@
 from tkinter import *
 from tkinter import ttk
 from classes import *
-from newsapi import NewsApiClient
 import json
 import io
 import os
 import requests
-import urllib.request
-from urllib.request import urlopen
 from PIL import ImageTk, Image
 import webbrowser
 
